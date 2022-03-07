@@ -7,7 +7,7 @@
             <img src="https://preview.redd.it/as6lqng25u161.png?width=640&crop=smart&auto=webp&s=be74789b777ede2ae2666834e9c08a58c98d7c13" class="rounded-circle" style="width: 100px; height: 100px">
         </div>
         <div class="col-9">
-            <div><h1>Jeff&Betty</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex">
                 <div class="pe-4"><strong>253</strong> Posts</div>
                 <div class="pe-4"><strong>28K</strong> Followers</div>
